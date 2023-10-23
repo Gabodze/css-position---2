@@ -1,0 +1,17 @@
+body{
+    background-color: #404040;
+    margin: 0;
+    padding: 0;
+}
+div{
+    height: 311px;
+    background-color: #710000;
+    width: 100%;
+    position: absolute;
+}
+
+img{
+    margin-left: 68px;
+    margin-top: 209px;
+    position: absolute;
+}
